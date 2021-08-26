@@ -1,0 +1,127 @@
+body{
+    background-image: linear-gradient(to right, rgb(10, 10, 10), rgba(0, 0, 0, 0.933));
+}
+
+header >h1{
+    color: red;
+    margin-left: 46px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 24px;
+}
+
+header>h1:hover{
+    text-shadow: 0px 0px 8px rgb(255, 0, 0);
+}
+
+main{
+    color: white;
+}
+
+div >p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 44px;
+    font-size:  49px
+}
+
+#foto1{
+    width: 144px;
+    height: 140px;
+    padding-left: 275px;
+    padding-top: 0cm;
+}
+  
+#foto2{
+    width: 144px;
+    height: 140px;
+    padding-left: 27px;
+}
+
+#foto3{
+    width: 144px;
+    height: 140px;
+    padding-left: 34px;
+}
+
+#foto4{
+    width: 144px;
+    height: 140px;
+    padding-left: 32px;
+    border-radius: 8px;
+}
+
+#nome1{
+    margin-left: 321px;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.515);
+}
+
+#nome1:hover{
+    text-shadow: 0px 0px 8px white;
+}
+
+
+#nome2{
+    margin-left: 126px;
+    font-size: 28px;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.583);
+
+}
+
+#nome2:hover{
+    text-shadow: 0px 0px 8px white;
+}
+
+#nome3{
+    margin-left: 130px;
+    font-size: 28px;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.583);
+
+}
+
+#nome3:hover{
+    text-shadow: 0px 0px 8px white;
+}
+
+#nome4{
+    margin-left: 119px;
+    font-size: 28px;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.583);
+}
+
+#nome4:hover{
+    text-shadow: 0px 0px 8px white;
+}
+
+#kid{
+    margin-left: 121px;
+    font-size: 28px;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.583);
+
+}
+
+#kid:hover{
+    text-shadow: 0px 0px 8px white;
+}
+
+#rodape > h1{
+    color: rgba(255, 255, 255, 0.583);
+    margin-left: 553px;
+    margin-top: 55px;
+    font-size: 24px;
+    box-shadow: 0px 0px 2px white;
+    margin-right: 708px;
+    
+}
+
+#rodape:hover{
+    text-shadow: 0px 0px 8px white;
+}

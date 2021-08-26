@@ -1,0 +1,128 @@
+body{
+    background-image: linear-gradient(to right, rgb(10, 10, 10), rgba(0, 0, 0, 0.933));
+}
+
+header >h1{
+    color: red;
+    margin-left: 46px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 24px;
+}
+
+header>h1:hover{
+    text-shadow: 0px 0px 8px rgb(255, 0, 0);
+}
+
+main{
+    color: white;
+}
+
+div >p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 44px;
+    font-size:  49px
+}
+
+#foto1{
+    width: 144px;
+    height: 140px;
+    padding-left: 275px;
+    padding-top: 0cm;
+}
+  
+#foto2{
+    width: 144px;
+    height: 140px;
+    padding-left: 27px;
+}
+
+#foto3{
+    width: 144px;
+    height: 140px;
+    padding-left: 34px;
+}
+
+#foto4{
+    width: 144px;
+    height: 140px;
+    padding-left: 32px;
+}
+
+#nome1{
+    margin-left: 311px;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: white;
+}
+
+#nome1:hover{
+    text-decoration: underline;
+}
+
+
+#nome2{
+    margin-left: 126px;
+    font-size: 28px;
+    font-style: italic;
+    color: white;
+
+}
+
+#nome2:hover{
+    text-decoration: underline;
+}
+
+#nome3{
+    margin-left: 130px;
+    font-size: 28px;
+    font-style: italic;
+    color: white;
+
+}
+
+#nome3:hover{
+    text-decoration: underline;
+}
+
+#nome4{
+    margin-left: 119px;
+    font-size: 28px;
+    font-style: italic;
+    color: white;
+}
+
+#nome4:hover{
+    text-decoration: underline;
+}
+
+#kid{
+    margin-left: 121px;
+    font-size: 28px;
+    font-style: italic;
+    color: white;
+
+}
+
+#kid:hover{
+    text-decoration: underline;
+}
+
+#rodape > h1{
+    color: white;
+    margin-left: 553px;
+    margin-top: 55px;
+    font-size: 24px;
+    box-shadow: 0px 0px 2px white;
+    margin-right: 558px;
+    
+}
+ a{
+    text-decoration: none;
+    color: white;
+} a:hover{
+    text-decoration: underline;
+}

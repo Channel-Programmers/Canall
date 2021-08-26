@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    text-align: center;
+    padding: 0;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-image: url(https://tecnoblog.net/wp-content/uploads/2018/12/cartoes-netflix-700x394.jpg);
+    background-size: 114%;
+    background-repeat: no-repeat;
+}
+header > h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17pt;
+    font-style: italic;
+    text-align: left;
+    margin: 10px;
+}
+#h1{
+    text-decoration: none;
+    color: red;
+}
+#h1:hover{
+    color: red;
+    background-color: rgba(252, 127, 127, 0.253);
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#corpo{
+    margin-top: 80px;
+    margin-left: 395px;
+    margin-right: 450px;
+   /* background-color: rgb(168, 161, 161);*/
+    background-color: rgba(0, 0, 0, 0.651);
+    border-radius: 5px;
+}
+main > main{
+   /* background-color: rgba(95, 158, 160, 0.445);*/
+    margin-left: 50px;
+    margin-right: 10px;
+    text-align: left;
+}
+main > h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+    padding-bottom: 29px;
+    text-align: left;
+}
+input{
+    border: none;
+    outline: none;
+    text-indent: 0;
+    text-align: left;
+}
+#email{
+    font-size: 17px;
+    margin-bottom: 13px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 3px;
+    text-indent: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(94, 94, 94);
+    color: rgb(255, 255, 255);
+}
+#senha{
+    font-size: 17px;
+    margin-bottom: 40px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 3px;
+    text-indent: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(94, 94, 94);
+    color: white;
+}
+#entrar{
+    font-size: 17px;
+    margin-bottom: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 3px;
+    height: 40px;
+    width: 417px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cx1{
+    text-align: left;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(167, 167, 167);
+    padding-right: 5px;
+
+}
+#hp{
+    margin-left: 188px;
+    color: rgb(167, 167, 167);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#hp2{
+    text-decoration: none;
+    color: rgb(199, 194, 194);
+    font-family: Arial, Helvetica, sans-serif;
+
+} #hp2:hover{
+    text-decoration: underline;
+}
+#cx2{
+    text-align: left;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(167, 167, 167);
+    padding-right: 5px;
+    margin-top: 60px;
+}
+#hp3{
+    text-decoration: none;
+    color: rgb(199, 194, 194);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 13px;
+}
+#cx3{
+    text-align: left;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(167, 167, 167);
+    margin-top: 16px;
+}
+#hp4{
+    text-decoration: none;
+    color: rgb(199, 194, 194);
+    font-family: Arial, Helvetica, sans-serif;
+    
+} .hp4{
+    color: rgba(255, 255, 255, 0.829);
+
+}.hp4:hover{
+    text-decoration: underline;
+}
+#cx4{
+    text-align: left;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(167, 167, 167);
+    margin-top: 16px; 
+}
+#cx5{
+    text-align: left;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(167, 167, 167);
+    margin-top: 2px; 
+    padding-bottom: 90px;
+}
+#hp5{
+    color: rgb(36, 36, 255);
+} #hp5:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+
+
+body{
+    text-align: justify;
+}
+
+#corpoconteudo{
+    width: 97vw;
+    height: 53vh;
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#corpoconteudo2{
+    margin-top: -70px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 400px;
+    height: 230px;
+    background: transparent;
+ 
+}
+
+
+
+#cabeça{
+    margin-bottom: 8px;
+    margin-top: 21px;
+
+}
+
+
+#gmail{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 1053px;
+}
+
+
+#gmail:hover{
+    text-decoration: underline;
+}
+
+
+#imagens{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 11px;
+}
+
+
+#imagens:hover{
+    text-decoration: underline;
+}
+
+
+#login{
+    background: #2b7de9;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin-left: 70px;
+    border-radius: 4px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#login:hover{
+    background: #0c61cf;
+    color: white;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+main > header > #google{
+    padding-top: 13px;
+    margin-left: 67px;
+}
+
+
+#conteudoz{
+    margin-left: 50px;
+}
+#barrapesquisa{
+    background-color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 3px;
+    padding-right: 4px;
+    border-radius: 10px;
+}
+#pesquisa{
+    margin-top: 32px;
+    height: 37px;
+    margin-left: 403px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 0px 1px #92929278;
+    margin-right: 398px;
+    
+}
+#text{
+    padding-top: 6px;
+    font-size: 15px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+
+        } #text{
+            height: 15px;
+            text-indent: 10px;
+            border-radius: 6px;
+            color: bla;
+
+                } #text:focus{
+                border-color:#388bfd;
+                box-shadow: 1px 1px 1px #58a6ff;
+                outline: none;
+}
+
+input{
+    border: none;
+    outline: none;
+    text-indent: 0px;
+
+}
+
+
+#imagenspes{
+    margin-top: -5px;
+}
+
+
+#imagenspes2{
+    margin-left: 0px;
+}
+
+
+#rodape{
+    width: 100vw;
+    height: 0vh;
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#cabeçarodape{
+    margin-top: -319px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 214px;
+    height: 18px;
+    background: transparent;
+ 
+}

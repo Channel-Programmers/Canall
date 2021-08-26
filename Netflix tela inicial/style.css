@@ -1,0 +1,156 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-align: justify;
+}
+body{
+    background-image: url("https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/02/Netflix-ok.jpg" );
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+
+header > span > h1{
+    color: red;
+    margin-left: 46px;
+    margin-right: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 24px;
+
+}
+header > span > h1:hover{
+    color: rgba(255, 75, 75, 0.808);
+}
+#h1{
+    color: red;
+}
+#entrar1{
+    color: white;
+    margin-left: 1070px;
+    margin-top: -0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background: transparent;
+    border-radius: 3px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+}
+ion-icon#globo{
+    height: 10px;
+    padding: 0px;
+    margin-left: 4px;
+    margin: 0px;
+}
+ion-icon{
+    height: 11px;
+    padding: 0px;
+    margin: 0px;
+}
+#entrar1:hover{
+    
+    color: rgb(206, 205, 205);
+}
+#entrar2{
+    color: white;
+    margin-left: 10px;
+    margin-top: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    background: red;
+    border-radius: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+#conteudo{
+    margin-top: 200px;
+}
+main > span > #p1{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    font-weight: bolder;
+}
+main > span > #p2{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 39px;
+    font-weight: bolder 1px;
+    margin-top: 10px;
+}
+main > span > #p3{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bolder;
+    margin-top: 20px;
+    
+}
+main > span > #p4{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+}
+#conteudoform{
+    text-align: center;
+    margin-right: 120px;
+    margin-left: 162px;
+    margin-top: 26px;
+}
+#email1{
+    background: transparent;
+    padding: 0px;
+    margin-right: 0px;
+
+  }
+#email2{
+    border: none;
+    outline: none;
+    text-indent: 0px;
+    text-align: left;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-bottom: 23px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+#butao2{
+    text-align: center;
+    padding-left: 39px;
+    padding-right: 39px;
+    padding-bottom: 23px;
+    padding-top: 19px;
+    font-family: monospace;
+    font-size: 17pt;
+    color: white;
+    background: red;
+    border: none;
+    outline: none;
+    text-indent: 0px;
+    text-align: block;
+}
+#butao2:hover{
+    background: rgb(255, 128, 128);
+    color: rgb(0, 0, 0);
+
+}
